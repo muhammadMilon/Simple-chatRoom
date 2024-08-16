@@ -18,7 +18,7 @@ A simple chat application with a server-client architecture built in Java. This 
 
 ## Demo
 
-[Watch the **Demo** Video](https://www.youtube.com/playlist?list=PLcpndM7GLzjoY4KC20QDfufO3LX5IoUWg)
+[Watch the **Demo** Video](https://www.youtube.com/watch?v=gz4mQVkoeYw&list=PLcpndM7GLzjoY4KC20QDfufO3LX5IoUWg&index=5)
 
 ## Motivation
 
